@@ -1,6 +1,6 @@
 # jpa03-ArjunLovesCoding
 
-Running at: http://jpa03-arjunlovescoding.dokku-12.cs.ucsb.edu
+Running at: https://jpa03-arjunlovescoding.dokku-12.cs.ucsb.edu
 
 # Configuring GitHub Pages for the documentation
 
